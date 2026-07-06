@@ -1,6 +1,6 @@
 ---
 name: guardrails
-description: Always-on safety net against self-inflicted damage. Activates before commits, before migrations, before destructive commands, and whenever secrets or credentials are involved. Catches the dumb, costly mistakes inexperienced builders make: committing secrets, working on main, running a destructive migration with no backup, deleting things they can't get back.
+description: 'Always-on safety net against self-inflicted damage. Activates before commits, before migrations, before destructive commands, and whenever secrets or credentials are involved. Catches the dumb, costly mistakes inexperienced builders make: committing secrets, working on main, running a destructive migration with no backup, deleting things they can't get back.'
 allowed-tools: [Read, Grep, Glob, Bash]
 ---
 
