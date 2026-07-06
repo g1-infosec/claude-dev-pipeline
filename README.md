@@ -14,7 +14,7 @@ One prompt is one context trying to be a product manager, an architect, several 
 ## Quick start (Claude Code)
 
 ```
-git clone <this-repo> my-project
+git clone https://github.com/g1-infosec/claude-dev-pipeline.git my-project
 cd my-project
 ```
 
