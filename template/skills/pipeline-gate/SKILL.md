@@ -1,6 +1,6 @@
 ---
 name: pipeline-gate
-description: Always-on enforcement of the team's pipeline. Activates whenever any agent is about to write or edit code or project files. It enforces one rule: nothing gets built without an approved Implementation Brief. If a build agent is invoked directly (e.g. "product-manager, build X" or "developer, add Y") and there is no approved brief, it hard-stops and routes back to the right step. This is what stops the team collapsing back into one context doing every job.
+description: 'Always-on enforcement of the team's pipeline. Activates whenever any agent is about to write or edit code or project files. It enforces one rule: nothing gets built without an approved Implementation Brief. If a build agent is invoked directly (e.g. "product-manager, build X" or "developer, add Y") and there is no approved brief, it hard-stops and routes back to the right step. This is what stops the team collapsing back into one context doing every job.'
 allowed-tools: [Read, Glob, Grep]
 ---
 
