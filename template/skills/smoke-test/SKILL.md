@@ -1,6 +1,6 @@
 ---
 name: smoke-test
-description: 'Activates after a build step, before declaring anything done, and whenever the user asks "does it work / does it run / did I break it". A fast, shallow check that the thing actually starts and the main paths respond, not deep behaviour tests. This is the gate vibecoders care about most: "it builds, it boots, the homepage loads."'
+description: 'Activates after a build step, before declaring anything done, and whenever the user asks "does it work / does it run / did I break it". A fast, shallow check that the thing actually starts and the main paths respond, not deep behaviour tests. This is the gate vibecoders care about most: "it builds, it boots, the homepage loads." '
 allowed-tools: [Read, Bash, Glob, Grep]
 ---
 
