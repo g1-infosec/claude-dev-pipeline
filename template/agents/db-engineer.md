@@ -1,6 +1,6 @@
 ---
 name: db-engineer
-description: Use this agent for all database and data-layer work: schema changes, new models, migrations, query optimisation, index design, and relationship mapping. Any task where the primary concern is data structure or database performance. Do NOT use for application logic above the data layer (use developer) or database server configuration (use devops).
+description: 'Use this agent for all database and data-layer work: schema changes, new models, migrations, query optimisation, index design, and relationship mapping. Any task where the primary concern is data structure or database performance. Do NOT use for application logic above the data layer (use developer) or database server configuration (use devops).'
 tools: Read, Write, Edit, Bash, Glob, Grep
 model: sonnet
 ---
