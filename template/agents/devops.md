@@ -1,6 +1,6 @@
 ---
 name: devops
-description: Use this agent for infrastructure, deployment, and operations: service configuration, web server / reverse proxy config, host hardening, firewall rules, scheduled jobs, environment/secret management, log rotation, TLS certificates, and deployment scripts. Do NOT use for application code (use developer), database schema (use db-engineer), or security code review (use security-auditor).
+description: 'Use this agent for infrastructure, deployment, and operations: service configuration, web server / reverse proxy config, host hardening, firewall rules, scheduled jobs, environment/secret management, log rotation, TLS certificates, and deployment scripts. Do NOT use for application code (use developer), database schema (use db-engineer), or security code review (use security-auditor).'
 tools: Read, Write, Edit, Bash, Glob, Grep
 model: sonnet
 ---
