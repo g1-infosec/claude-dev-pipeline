@@ -1,6 +1,6 @@
 ---
 name: project-setup
-description: Sets up a tailored AI dev team in the cloned repo itself — you edit in place, so the clone becomes your project. Run it from inside the repo. Activates on "set up the dev team", "set up my project", "configure the agents", "/project-setup", or "vibe setup". Starts from your idea (not an architecture choice): it infers the shape when it's clear, or defers it to the product-manager and project-lead when it isn't, then copies tailored agents and skills from template/ into .claude/ and seeds living-memory files.
+description: 'Sets up a tailored AI dev team in the cloned repo itself — you edit in place, so the clone becomes your project. Run it from inside the repo. Activates on "set up the dev team", "set up my project", "configure the agents", "/project-setup", or "vibe setup". Starts from your idea (not an architecture choice): it infers the shape when it''s clear, or defers it to the product-manager and project-lead when it isn''t, then copies tailored agents and skills from template/ into .claude/ and seeds living-memory files.'
 allowed-tools: [Read, Write, Glob, Grep, Bash]
 ---
 
