@@ -1,6 +1,6 @@
 ---
 name: developer
-description: Use this agent for application-level implementation: API routes, services, business logic, background jobs, data processing, external integrations, and refactoring. Invoke after the project-lead has produced an approved plan and (usually) after db-engineer has landed any schema changes. Do NOT use for database schema (use db-engineer), UI/templates (use ui-ux), infrastructure/deployment (use devops), or security review (use security-auditor).
+description: 'Use this agent for application-level implementation: API routes, services, business logic, background jobs, data processing, external integrations, and refactoring. Invoke after the project-lead has produced an approved plan and (usually) after db-engineer has landed any schema changes. Do NOT use for database schema (use db-engineer), UI/templates (use ui-ux), infrastructure/deployment (use devops), or security review (use security-auditor).'
 tools: Read, Write, Edit, Bash, Glob, Grep
 model: sonnet
 ---
