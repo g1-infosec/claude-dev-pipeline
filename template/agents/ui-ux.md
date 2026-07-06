@@ -1,6 +1,6 @@
 ---
 name: ui-ux
-description: Use this agent for all frontend and user-experience work: templates/components, styling, layout, information architecture, new UI, dashboards, and any work where the goal is improving how information is communicated visually. Do NOT use for backend logic (use developer), database queries (use db-engineer), or deployment (use devops).
+description: 'Use this agent for all frontend and user-experience work: templates/components, styling, layout, information architecture, new UI, dashboards, and any work where the goal is improving how information is communicated visually. Do NOT use for backend logic (use developer), database queries (use db-engineer), or deployment (use devops).'
 tools: Read, Write, Edit, Glob, Grep, Bash, mcp__playwright__browser_navigate, mcp__playwright__browser_take_screenshot, mcp__playwright__browser_snapshot, mcp__playwright__browser_resize
 model: sonnet
 ---
