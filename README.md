@@ -39,8 +39,6 @@ Use the product-manager agent. My idea: <one line>.
 
 Approve the plan, and the team takes it from there.
 
-> If `git clone` isn't for you, this isn't your tool. Everything else is built to be beginner-friendly; that one step isn't negotiable.
-
 ## Repo layout
 
 This repo is itself a Claude Code bundle, which is why `/project-setup` loads the moment you clone it:
