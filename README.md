@@ -1,4 +1,4 @@
-# AI Dev Team
+# Claude Dev Pipeline
 
 **Clone it, run one command, and get a tailored team of AI agents that builds your idea, remembers what you did, and stops you shooting yourself in the foot.**
 
