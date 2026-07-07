@@ -5,7 +5,6 @@
 **Clone it, run one command, and get a tailored team of AI agents that builds your idea, remembers what you did, and stops you shooting yourself in the foot.**
 
 **Built for people who build by prompting.** You bring the idea; the team handles the roles: ... so nothing gets forgotten between sessions.
----
 
 ## Why this exists
 
