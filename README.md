@@ -1,10 +1,12 @@
 # Claude Dev Pipeline
 
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
 **Clone it, run one command, and get a tailored team of AI agents that builds your idea, remembers what you did, and stops you shooting yourself in the foot.**
 
 ---
 
-### Built for people who build by prompting. You bring the idea; the team handles the roles: a product manager to shape it, a lead to plan it, engineers to build it, reviewers to catch problems, and a shared memory so nothing gets forgotten between sessions
+### Built for people who build by prompting. You bring the idea; the team handles the roles: a product manager to shape it, a lead to plan it, engineers to build it, reviewers to catch problems, and a shared memory so nothing gets forgotten between sessions.
 ---
 
 ## Why this exists
