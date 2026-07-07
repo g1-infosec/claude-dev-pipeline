@@ -1,4 +1,4 @@
-<!-- Thanks for contributing to ai-dev-team. -->
+<!-- Thanks for contributing to claude-dev-pipeline. -->
 
 ## What this adds
 <!-- A role, a skill, an archetype, or a fix. One or two lines. -->
