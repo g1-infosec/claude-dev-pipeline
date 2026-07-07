@@ -43,7 +43,7 @@ Approve the plan, and the team takes it from there.
 This repo is itself a Claude Code bundle, which is why `/project-setup` loads the moment you clone it:
 
 ```
-ai-dev-team/              clone this; it becomes your project
+claude-dev-pipeline/              clone this; it becomes your project
   .aidevteam             marker the installer anchors on
   template/              the role + skill library (setup reads this; gitignored after setup)
     agents/
