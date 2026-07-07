@@ -3,14 +3,7 @@
 ## Reporting a vulnerability
 
 Please do not open a public issue for security problems.
-
-Use GitHub's private vulnerability reporting: go to the **Security** tab of this
-repository and choose **Report a vulnerability**. This opens a private advisory
-visible only to the maintainers.
-
-You can expect an acknowledgement within 3 working days and a fuller response,
-including next steps, within 10 working days. Please give us a reasonable window
-to remediate before any public disclosure.
+Instead, email me at security@g1-infosec.com
 
 ## Scope
 
